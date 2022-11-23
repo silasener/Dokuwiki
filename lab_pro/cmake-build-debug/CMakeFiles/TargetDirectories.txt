@@ -1,0 +1,3 @@
+/Users/silasener/CLionProjects/lab_pro/cmake-build-debug/CMakeFiles/lab_pro.dir
+/Users/silasener/CLionProjects/lab_pro/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/silasener/CLionProjects/lab_pro/cmake-build-debug/CMakeFiles/rebuild_cache.dir

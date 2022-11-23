@@ -1,0 +1,26 @@
+
+ ETİKETLER  ** TEKRAR SAYİSİ
+ProgramlamaLab	         2
+Programlama_I	         4
+Matematik_I	         2
+Matematik_II	         2
+Programlama_II	         2
+Nesneye	         2
+Y	         4
+nelik	         2
+Programlama	         7
+G	         6
+rsel	         3
+Veritaban	         2
+netimi	         2
+Ahmet	         8
+ERD	         6
+L	         6
+I	         3
+SAYAR	         2
+Hikmet	         3
+Hakan	         3
+REL	         3
+alev	         1
+MUTLU	         1
+Matematik	         1
